@@ -1,2 +1,2 @@
 # manti
-A cool ruby-like interpreter programming language.
+Fresh and Useful Programming Language
