@@ -1,2 +1,2 @@
 # manti
-The micro programming language.
+The delicious programming language.
