@@ -1,0 +1,3 @@
+var name = "volkan konak";
+
+print(name);

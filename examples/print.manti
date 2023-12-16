@@ -1,0 +1,3 @@
+var name = "volkan konak";
+var othername = "sungurtekin";
+print(name, othername);

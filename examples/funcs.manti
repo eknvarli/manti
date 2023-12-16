@@ -1,0 +1,15 @@
+function dosomething(x, y)
+{
+    print(x);
+    print(y);
+};
+
+dosomething("hello", "world");
+
+
+function say(name)
+{
+    print(name);
+};
+
+say("volkan konak");
