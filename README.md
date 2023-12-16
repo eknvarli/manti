@@ -1,2 +1,2 @@
 # manti
-Fresh and Useful Programming Language
+The micro programming language.
